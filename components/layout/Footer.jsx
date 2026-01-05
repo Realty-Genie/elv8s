@@ -63,7 +63,7 @@ export function Footer() {
                                     <p className="text-white font-medium">New Jersey</p>
                                 </div>
                             </li>
-                            <li>+1 (777) 792 220</li>
+                            <li>+1 (778) 792 2220</li>
                         </ul>
                     </div>
                 </div>
